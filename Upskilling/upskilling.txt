@@ -1,0 +1,12 @@
+UpSkilling:
+
+
+1.Completed Career Framework Assessment
+
+2.Fundamentals of Azure-900 certification is completed
+
+3.Completed deployment on PAAS
+
+4.Started doing new Case study called StudentAdminPortal.
+
+
